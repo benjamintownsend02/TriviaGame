@@ -1,0 +1,31 @@
+body{
+    background-image: url(../images/img_ocean_square.jpg);
+    background-size: 100%;
+    /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+}
+
+h1{
+    font-size: 150%;
+}
+
+#primary{
+    text-align: center;
+    background-color: turquoise;
+    color: black;
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    height: auto;
+}
+
+button:hover{
+    background-color: teal;
+    color: white;
+  }
+  
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
